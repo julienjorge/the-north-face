@@ -13,3 +13,6 @@ env/
 # Artefacts de modèle
 *.pkl
 *.joblib
+
+# Captures de travail pour les slides
+images/
